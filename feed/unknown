@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Renda com Vídeos Oficial</title>
-	<atom:link href="https://rendacomvideos.xyz/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rendacomvideos.xyz</link>
+	<atom:link href="https://rendacomvideosoficial.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendacomvideosoficial.com</link>
 	<description>Renda com Vídeos é um Método para fazer dinheiro assistindo vídeos.</description>
-	<lastBuildDate>Thu, 28 Apr 2022 14:38:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 May 2022 17:36:15 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

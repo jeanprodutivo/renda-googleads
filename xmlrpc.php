@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://rendacomvideos.xyz</homePageLink>
+		<homePageLink>https://gads.rendacomvideos.xyz.com</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://rendacomvideos.xyz/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://rendacomvideos.xyz/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://rendacomvideos.xyz/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://rendacomvideos.xyz/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://rendacomvideos.xyz/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://gads.rendacomvideos.xyz.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://gads.rendacomvideos.xyz.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://gads.rendacomvideos.xyz.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://gads.rendacomvideos.xyz.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://gads.rendacomvideos.xyz.com/wp-json/" />
 			</apis>
 	</service>
 </rsd>
